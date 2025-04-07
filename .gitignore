@@ -43,3 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#VS Code
+.vscode/
+.vscode/launch.json
+.vscode/tasks.json
